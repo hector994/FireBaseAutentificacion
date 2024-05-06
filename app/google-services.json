@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121194569510",
+    "project_id": "fir-autentificacion-bac71",
+    "storage_bucket": "fir-autentificacion-bac71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121194569510:android:f0d2bc1b4be792685d2be7",
+        "android_client_info": {
+          "package_name": "com.example.firebaseautentificacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8zoPKdn98-wXctQZWL3sOz7S4jza0uXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
